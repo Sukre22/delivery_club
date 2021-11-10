@@ -1,5 +1,9 @@
+const cardRestaurants = document.querySelector('.cards-restaurants')
+
 const renderItems = (data) => {
-    console.log(data);
+    data.forEach(item => {
+        
+    })
 }
 
 
